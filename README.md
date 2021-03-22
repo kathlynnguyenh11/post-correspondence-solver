@@ -13,7 +13,7 @@ Recommended: Use the command line arguments to run this program </br>
 
 ## Example of running the program
 ```
-% javac -d "classes" "/Users/knguyen/Google Drive/NJIT/SPRING2021/CS370-452/Assignment1/FINAL/Node.java" </br>
+% javac -d "classes" "/Users/knguyen/Google Drive/NJIT/SPRING2021/CS370-452/Assignment1/FINAL/Node.java" 
 
 % javac -d "classes" -classpath "classes" "/Users/knguyen/Google Drive/NJIT/SPRING2021/CS370-452/Assignment1/FINAL/PostCorrespondence.java" </br>
 
