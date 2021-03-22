@@ -20,17 +20,17 @@ Recommended: Use the command line arguments to run this program </br>
 % java -classpath "classes" "/Users/knguyen/Google Drive/NJIT/SPRING2021/CS370-452/Assignment1/FINAL/PostCorrespondence.java" 
 Enter max size of queue 
 5 
-Enter max size of depth </br>
-50 </br>
-Enter flag </br>
-0 </br>
-Enter number of domino </br>
-3 </br>
-Enter your domino(s): </br>
-1 bb b </br>
-2 a aab </br>
-3 abbba bb </br>
-Solution Size (# of dominoes): 4 (Solution found in Stage 1) </br>
-The solution sequence is: D2,D3,D2,D1 </br>
-The top and bottom of the sequence looks like: aabbbaabb/aabbbaabb </br>
+Enter max size of depth 
+50
+Enter flag
+0 
+Enter number of domino 
+3 
+Enter your domino(s): 
+1 bb b 
+2 a aab
+3 abbba bb 
+Solution Size (# of dominoes): 4 (Solution found in Stage 1) 
+The solution sequence is: D2,D3,D2,D1 
+The top and bottom of the sequence looks like: aabbbaabb/aabbbaabb 
 ```
