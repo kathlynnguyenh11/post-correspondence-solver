@@ -12,6 +12,7 @@ Recommended: Use the command line arguments to run this program </br>
 		- java -classpath "classes" "<Path to PostCorrespondence.java>"
 
 ## Example of running the program
+'''
 % javac -d "classes" "/Users/knguyen/Google Drive/NJIT/SPRING2021/CS370-452/Assignment1/FINAL/Node.java" </br>
 
 % javac -d "classes" -classpath "classes" "/Users/knguyen/Google Drive/NJIT/SPRING2021/CS370-452/Assignment1/FINAL/PostCorrespondence.java" </br>
@@ -32,4 +33,4 @@ Enter your domino(s): </br>
 Solution Size (# of dominoes): 4 (Solution found in Stage 1) </br>
 The solution sequence is: D2,D3,D2,D1 </br>
 The top and bottom of the sequence looks like: aabbbaabb/aabbbaabb </br>
-	
+'''
