@@ -15,11 +15,11 @@ Recommended: Use the command line arguments to run this program </br>
 ```
 % javac -d "classes" "/Users/knguyen/Google Drive/NJIT/SPRING2021/CS370-452/Assignment1/FINAL/Node.java" 
 
-% javac -d "classes" -classpath "classes" "/Users/knguyen/Google Drive/NJIT/SPRING2021/CS370-452/Assignment1/FINAL/PostCorrespondence.java" </br>
+% javac -d "classes" -classpath "classes" "/Users/knguyen/Google Drive/NJIT/SPRING2021/CS370-452/Assignment1/FINAL/PostCorrespondence.java" 
 
-% java -classpath "classes" "/Users/knguyen/Google Drive/NJIT/SPRING2021/CS370-452/Assignment1/FINAL/PostCorrespondence.java" </br>
-Enter max size of queue </br>
-5 </br>
+% java -classpath "classes" "/Users/knguyen/Google Drive/NJIT/SPRING2021/CS370-452/Assignment1/FINAL/PostCorrespondence.java" 
+Enter max size of queue 
+5 
 Enter max size of depth </br>
 50 </br>
 Enter flag </br>
