@@ -1,6 +1,20 @@
 # Post Correspondence Problem
 Name: Thi Thu Hang Nguyen
 
+## About
+```
+Post Correspondence Problem is a popular undecidable problem that was introduced by Emil Leon Post in 1946. It is simpler than Halting Problem.
+
+In this problem we have N number of Dominos (tiles). The aim is to arrange tiles in such order that string made by Numerators is same as string made by Denominators.
+In simple words, lets assume we have two lists both containing N words, aim is to find out concatenation of these words in some sequence such that both lists yield same result.
+
+Let’s try understanding this by taking two lists A and B
+
+A=[aa, bb, abb] and B=[aab, ba, b] 
+Now for sequence 1, 2, 1, 3 first list will yield aabbaaabb and second list will yield same string aabbaaabb.
+So the solution to this PCP becomes 1, 2, 1, 3.
+```
+
 ## General
 Recommended: Use the command line arguments to run this program </br>
 	
