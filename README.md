@@ -48,3 +48,6 @@ Solution Size (# of dominoes): 4 (Solution found in Stage 1)
 The solution sequence is: D2,D3,D2,D1 
 The top and bottom of the sequence looks like: aabbbaabb/aabbbaabb 
 ```
+
+## Notes
+> Programming is a creative work and the academic regulations that apply to plagiarizing prose also apply to plagiarizing code. Plagiarism is “the use of any outside source without proper acknowledgment.” It ranges from “verbatim copying” (e.g., cutting-and-pasting code) to “thorough paraphrasing” (e.g., changing variable names or rearranging code). 
